@@ -15,7 +15,7 @@ const About = () => {
                         <p>Hi. I'm Noel, nice to meet you. Please take a look around</p>
                     </div>
                     <div>
-                        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Sed, minima dolor accusamus eveniet necessitatibus atque recusandae officia, nihil soluta, natus amet incidunt rem consequatur dignissimos facilis. Corporis amet ea accusantium.</p>
+                        <p>I'm a dedicated and experienced professional with a background in computer science and mathematics. I have a strong passion for software development and data analysis. With expertise in building efficient data infrastructure, developing innovative web applications, and utilizing cutting-edge technologies. I have successfully contributed to projects involving data extraction, transformation, and integration.With a commitment to driving impactful solutions, I am always seeking new opportunities to apply my knowledge and expertise.</p>
                     </div>
                 </div>
             </div>
